@@ -1,0 +1,10 @@
+packages
+TestResults
+ConsoleApplication1
+UnitTestProject1
+*.psess
+*.vsp
+*.vsp
+*.sln
+*.suo
+
